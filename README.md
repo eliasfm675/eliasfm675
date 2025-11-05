@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Elías Fernández Medina
-- 👀 I’m interested in everything related to programming
-- 🌱 I’m currently learning Software Engineering at Uniovi
-- 💞️ I’m looking to collaborate on any projects offered to me while i'm available
-- 📫 How to reach me --> contact me on any of my socials
+
 
 
 <!---
