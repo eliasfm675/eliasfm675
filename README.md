@@ -1,25 +1,24 @@
-
 # Elías Fernández Medina
 
 ```
-  Ingeniería Informática del Software · Universidad de Oviedo
-  UO299673 · Asturias, España
+  Software Engineering · Universidad de Oviedo
+  UO299673 · Asturias, Spain
 ```
 
 ---
 
-## Sobre mí
+## About me
 
-Estudiante de **IIS en la UniOvi**, con recorrido que va desde los fundamentos de la programación hasta el diseño de sistemas distribuidos, seguridad informática y arquitectura del software. En GitHub llevo el rastro de todo lo que aprendo en la carrera.
+Student of **Software Engineering (IIS) at UniOvi**, building my way through everything from programming foundations to distributed systems, web architecture and software design. I use GitHub to track everything I learn throughout the degree.
 
-- 🎓 **Ingeniería Informática del Software** — Universidad de Oviedo
-- ☕ Lenguaje del día a día: **Java** (con **Spring Boot**) — y también **JavaScript** (Node + Express + React) y **Python**
-- 🧩 Lo que más me gusta: **patrones de diseño** y **arquitectura de sistemas orientada a la web**
-- 🔐 Explorando también: sistemas operativos, redes y seguridad
+- 🎓 **Software Engineering (IIS)** — Universidad de Oviedo
+- ☕ Daily driver: **Java** (with **Spring Boot**) — also **JavaScript** (Node + Express + React) and **Python**
+- 🧩 What I enjoy most: **design patterns** and **web-oriented systems architecture**
+- 🔐 Also exploring: operating systems, networking and cybersecurity
 
 ---
 
-## Tecnologías
+## Tech stack
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -31,52 +30,54 @@ Estudiante de **IIS en la UniOvi**, con recorrido que va desde los fundamentos d
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-## Repos de la carrera
+## Course repositories
 
-### Programación y algoritmos
-| Repositorio | Contenido |
-|-------------|-----------|
-| [IIS-Introduccion-a-la-Programacion](https://github.com/eliasfm675/IIS-Introduccion-a-la-Programacion) | Primeros pasos en programación |
-| [IIS-Metodologia-de-la-Programacion](https://github.com/eliasfm675/IIS-Metodologia-de-la-Programacion) | Diseño y resolución de problemas |
-| [IIS-Tecnologias-y-Paradigmas-de-Programacion](https://github.com/eliasfm675/IIS-Tecnologias-y-Paradigmas-de-Programacion) | Paradigmas funcional, OO y más |
-| [IIS-Algoritmia](https://github.com/eliasfm675/IIS-Algoritmia) | 7 entregas: sorting, grafos, complejidad — Java + Python |
-| [IIS-Estructuras-de-Datos](https://github.com/eliasfm675/IIS-Estructuras-de-Datos) | Proyecto final + examen: árboles, listas, grafos — Java |
-| [IIS-Automatas-y-Matematicas-Discretas](https://github.com/eliasfm675/IIS-Automatas-y-Matematicas-Discretas) | Autómatas, gramáticas y lógica |
-| [IIS-Computacion-Numerica](https://github.com/eliasfm675/IIS-Computacion-Numerica) | Métodos numéricos y aproximación |
+### Programming & algorithms
+| Repository | Content |
+|------------|---------|
+| [IIS-Introduccion-a-la-Programacion](https://github.com/eliasfm675/IIS-Introduccion-a-la-Programacion) | Introduction to programming |
+| [IIS-Metodologia-de-la-Programacion](https://github.com/eliasfm675/IIS-Metodologia-de-la-Programacion) | Problem solving and program design |
+| [IIS-Tecnologias-y-Paradigmas-de-Programacion](https://github.com/eliasfm675/IIS-Tecnologias-y-Paradigmas-de-Programacion) | Functional, OO and other paradigms |
+| [IIS-Algoritmia](https://github.com/eliasfm675/IIS-Algoritmia) | Complexity analysis, sorting, divide & conquer, recursion, greedy algorithms, dynamic programming, backtracking and branch & bound — Java + Python |
+| [IIS-Estructuras-de-Datos](https://github.com/eliasfm675/IIS-Estructuras-de-Datos) | Trees, graphs, heaps and hash tables — Java |
+| [IIS-Automatas-y-Matematicas-Discretas](https://github.com/eliasfm675/IIS-Automatas-y-Matematicas-Discretas) | Automata, grammars and discrete math |
+| [IIS-Computacion-Numerica](https://github.com/eliasfm675/IIS-Computacion-Numerica) | Numerical methods and approximation with NumPy and SymPy |
 
-### Diseño y arquitectura del software
-| Repositorio | Contenido |
-|-------------|-----------|
-| [IIS-Diseno-del-Software](https://github.com/eliasfm675/IIS-Diseno-del-Software) | 10+ labs: editor gráfico, undo/redo, visitor, maps, sistema de ficheros, ball game — patrones de diseño en Java |
-| [IIS-Arquitectura-del-Software](https://github.com/eliasfm675/IIS-Arquitectura-del-Software) | Estilos y decisiones arquitectónicas |
-| [IIS-Diseno-de-Lenguajes-de-Programacion](https://github.com/eliasfm675/IIS-Diseno-de-Lenguajes-de-Programacion) | Gramáticas, intérpretes y compiladores |
-| [IIS-Ingenieria-del-Proceso-Software](https://github.com/eliasfm675/IIS-Ingenieria-del-Proceso-Software) | Metodologías y gestión del desarrollo |
-| [IIS-Comunicacion-Persona-Maquina](https://github.com/eliasfm675/IIS-Comunicacion-Persona-Maquina) | Interfaces y usabilidad |
+### Software design & architecture
+| Repository | Content |
+|------------|---------|
+| [IIS-Diseno-del-Software](https://github.com/eliasfm675/IIS-Diseno-del-Software) | Design patterns: Composite, Command (undo/redo), Visitor, Iterator, Observer, Strategy, Decorator, Factory — Java |
+| [IIS-Arquitectura-del-Software](https://github.com/eliasfm675/IIS-Arquitectura-del-Software) | Architectural styles and design decisions |
+| [IIS-Diseno-de-Lenguajes-de-Programacion](https://github.com/eliasfm675/IIS-Diseno-de-Lenguajes-de-Programacion) | Grammars, interpreters and compilers with ANTLR |
+| [IIS-Ingenieria-del-Proceso-Software](https://github.com/eliasfm675/IIS-Ingenieria-del-Proceso-Software) | Agile methodologies and Scrum |
+| [IIS-Comunicacion-Persona-Maquina](https://github.com/eliasfm675/IIS-Comunicacion-Persona-Maquina) | HCI, usability and Swing UI |
 
-### Sistemas y redes
-| Repositorio | Contenido |
-|-------------|-----------|
-| [IIS-Fundamentos-de-Computadores-y-Redes](https://github.com/eliasfm675/IIS-Fundamentos-de-Computadores-y-Redes) | Arquitectura básica y redes |
-| [IIS-Tecnologia-Electronica-de-Computadores](https://github.com/eliasfm675/IIS-Tecnologia-Electronica-de-Computadores) | Circuitos y sistemas digitales — C++ |
-| [IIS-Arquitectura-de-Computadores](https://github.com/eliasfm675/IIS-Arquitectura-de-Computadores) | ISA, pipeline y memoria |
-| [IIS-Sistemas-Operativos](https://github.com/eliasfm675/IIS-Sistemas-Operativos) | Procesos, memoria y gestión del SO |
-| [IIS-Sistemas-Distribuidos-e-Internet](https://github.com/eliasfm675/IIS-Sistemas-Distribuidos-e-Internet) | Concurrencia, sockets y protocolos |
-| [IIS-Administracion-de-Sistemas-y-Redes](https://github.com/eliasfm675/IIS-Administracion-de-Sistemas-y-Redes) | Configuración y administración Linux |
-| [IIS-Seguridad-de-Sistemas-Informaticos](https://github.com/eliasfm675/IIS-Seguridad-de-Sistemas-Informaticos) | Criptografía, ataques y defensa |
-| [IIS-Fundamentos-de-Informatica](https://github.com/eliasfm675/IIS-Fundamentos-de-Informatica) | Base teórica de la informática |
+### Systems & networks
+| Repository | Content |
+|------------|---------|
+| [IIS-Fundamentos-de-Computadores-y-Redes](https://github.com/eliasfm675/IIS-Fundamentos-de-Computadores-y-Redes) | Computer architecture fundamentals and networking |
+| [IIS-Tecnologia-Electronica-de-Computadores](https://github.com/eliasfm675/IIS-Tecnologia-Electronica-de-Computadores) | Digital circuits and electronic systems — C++ |
+| [IIS-Arquitectura-de-Computadores](https://github.com/eliasfm675/IIS-Arquitectura-de-Computadores) | ISA, pipeline and memory |
+| [IIS-Sistemas-Operativos](https://github.com/eliasfm675/IIS-Sistemas-Operativos) | Processes, memory and OS management |
+| [IIS-Sistemas-Distribuidos-e-Internet](https://github.com/eliasfm675/IIS-Sistemas-Distribuidos-e-Internet) | Distributed systems with Node.js, React, JEE and Spring Boot |
+| [IIS-Administracion-de-Sistemas-y-Redes](https://github.com/eliasfm675/IIS-Administracion-de-Sistemas-y-Redes) | Linux system and network administration |
+| [IIS-Seguridad-de-Sistemas-Informaticos](https://github.com/eliasfm675/IIS-Seguridad-de-Sistemas-Informaticos) | Cryptography, attacks and defence |
+| [IIS-Fundamentos-de-Informatica](https://github.com/eliasfm675/IIS-Fundamentos-de-Informatica) | Theoretical foundations of computer science |
 
-### Datos y web
-| Repositorio | Contenido |
-|-------------|-----------|
-| [IIS-Bases-de-Datos](https://github.com/eliasfm675/IIS-Bases-de-Datos) | SQL, modelado relacional y JDBC — Java |
-| [IIS-Repositorios-de-Informacion](https://github.com/eliasfm675/IIS-Repositorios-de-Informacion) | Bases de datos avanzadas y almacenamiento |
-| [IIS-Software-y-Estandares-para-la-Web](https://github.com/eliasfm675/IIS-Software-y-Estandares-para-la-Web) | HTML, estándares y desarrollo web |
+### Data & web
+| Repository | Content |
+|------------|---------|
+| [IIS-Bases-de-Datos](https://github.com/eliasfm675/IIS-Bases-de-Datos) | SQL and relational modelling — Java with JDBC |
+| [IIS-Repositorios-de-Informacion](https://github.com/eliasfm675/IIS-Repositorios-de-Informacion) | JDBC, JPA, information retrieval and NoSQL with Neo4j |
+| [IIS-Software-y-Estandares-para-la-Web](https://github.com/eliasfm675/IIS-Software-y-Estandares-para-la-Web) | HTML, web standards and development |
 
 ---
 
@@ -84,12 +85,12 @@ Estudiante de **IIS en la UniOvi**, con recorrido que va desde los fundamentos d
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=eliasfm675&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasfm675&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasfm675&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </p>
 
 ---
 
-<sub>Estudiante de IIS · UniOvi · UO299673</sub>
+<sub>Software Engineering student · UniOvi · UO299673</sub>
 
 <!---
 eliasfm675/eliasfm675 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
