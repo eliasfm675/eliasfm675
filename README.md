@@ -29,7 +29,12 @@ Student of **Software Engineering (IIS) at UniOvi**, building my way through eve
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
   <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -45,7 +50,7 @@ Student of **Software Engineering (IIS) at UniOvi**, building my way through eve
 |------------|---------|
 | [IIS-Introduccion-a-la-Programacion](https://github.com/eliasfm675/IIS-Introduccion-a-la-Programacion) | Introduction to programming |
 | [IIS-Metodologia-de-la-Programacion](https://github.com/eliasfm675/IIS-Metodologia-de-la-Programacion) | Problem solving and program design |
-| [IIS-Tecnologias-y-Paradigmas-de-Programacion](https://github.com/eliasfm675/IIS-Tecnologias-y-Paradigmas-de-Programacion) | Functional, OO and other paradigms |
+| [IIS-Tecnologias-y-Paradigmas-de-Programacion](https://github.com/eliasfm675/IIS-Tecnologias-y-Paradigmas-de-Programacion) | Functional, OO and other paradigms — including C# |
 | [IIS-Algoritmia](https://github.com/eliasfm675/IIS-Algoritmia) | Complexity analysis, sorting, divide & conquer, recursion, greedy algorithms, dynamic programming, backtracking and branch & bound — Java + Python |
 | [IIS-Estructuras-de-Datos](https://github.com/eliasfm675/IIS-Estructuras-de-Datos) | Trees, graphs, heaps and hash tables — Java |
 | [IIS-Automatas-y-Matematicas-Discretas](https://github.com/eliasfm675/IIS-Automatas-y-Matematicas-Discretas) | Automata, grammars and discrete math |
@@ -66,7 +71,7 @@ Student of **Software Engineering (IIS) at UniOvi**, building my way through eve
 | [IIS-Fundamentos-de-Computadores-y-Redes](https://github.com/eliasfm675/IIS-Fundamentos-de-Computadores-y-Redes) | Computer architecture fundamentals and networking |
 | [IIS-Tecnologia-Electronica-de-Computadores](https://github.com/eliasfm675/IIS-Tecnologia-Electronica-de-Computadores) | Digital circuits and electronic systems — C++ |
 | [IIS-Arquitectura-de-Computadores](https://github.com/eliasfm675/IIS-Arquitectura-de-Computadores) | ISA, pipeline and memory |
-| [IIS-Sistemas-Operativos](https://github.com/eliasfm675/IIS-Sistemas-Operativos) | Processes, memory and OS management |
+| [IIS-Sistemas-Operativos](https://github.com/eliasfm675/IIS-Sistemas-Operativos) | Processes, memory and OS management — C |
 | [IIS-Sistemas-Distribuidos-e-Internet](https://github.com/eliasfm675/IIS-Sistemas-Distribuidos-e-Internet) | Distributed systems with Node.js, React, JEE and Spring Boot |
 | [IIS-Administracion-de-Sistemas-y-Redes](https://github.com/eliasfm675/IIS-Administracion-de-Sistemas-y-Redes) | Linux system and network administration |
 | [IIS-Seguridad-de-Sistemas-Informaticos](https://github.com/eliasfm675/IIS-Seguridad-de-Sistemas-Informaticos) | Cryptography, attacks and defence |
@@ -77,7 +82,7 @@ Student of **Software Engineering (IIS) at UniOvi**, building my way through eve
 |------------|---------|
 | [IIS-Bases-de-Datos](https://github.com/eliasfm675/IIS-Bases-de-Datos) | SQL and relational modelling — Java with JDBC |
 | [IIS-Repositorios-de-Informacion](https://github.com/eliasfm675/IIS-Repositorios-de-Informacion) | JDBC, JPA, information retrieval and NoSQL with Neo4j |
-| [IIS-Software-y-Estandares-para-la-Web](https://github.com/eliasfm675/IIS-Software-y-Estandares-para-la-Web) | HTML, web standards and development |
+| [IIS-Software-y-Estandares-para-la-Web](https://github.com/eliasfm675/IIS-Software-y-Estandares-para-la-Web) | Web standards and development — HTML, CSS, XML, JavaScript (jQuery) and PHP |
 
 ---
 
